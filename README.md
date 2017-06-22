@@ -52,3 +52,4 @@ This assumes that you have a PLC with Ams ID `5.21.172.208.1.1` available at IP 
  * [AMS/ADS Protocol Overview](http://infosys.beckhoff.com/content/1033/bk9000/html/bt_ethernet%20ads%20potocols.htm?id=2222)
  * [ADS Command Documentation](http://infosys.beckhoff.com/english.php?content=../content/1033/TcAdsAmsSpec/HTML/TcAdsAmsSpec_Intro.htm)
  * [pyads library by Christoph Wiedemann](https://github.com/chwiede/pyads)
+ * [pyads library from Counsyl](https://github.com/counsyl/counsyl-pyads)
